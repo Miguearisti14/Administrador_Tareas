@@ -1,0 +1,62 @@
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\AdminTareasAvanzado.exe.config
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\AdminTareasAvanzado.exe
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\AdminTareasAvanzado.pdb
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Asio.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Core.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Midi.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Wasapi.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.WinForms.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.WinMM.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\System.Security.AccessControl.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Asio.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Core.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Midi.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.Wasapi.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.WinForms.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\NAudio.WinMM.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\System.Security.AccessControl.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.Form1.resources
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.Properties.Resources.resources
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.csproj.GenerateResource.cache
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTar.447F5DBD.Up2Date
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.exe
+C:\Users\valer\OneDrive - UPB\UNIVERSIDAD\3-2024\Paradigmas de Programación\Final\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.pdb
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\AdminTareasAvanzado.exe.config
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\AdminTareasAvanzado.exe
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\AdminTareasAvanzado.pdb
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Asio.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Core.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Midi.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Wasapi.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.WinForms.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.WinMM.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Asio.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Core.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Midi.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.Wasapi.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.WinForms.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\NAudio.WinMM.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.csproj.AssemblyReference.cache
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.Form1.resources
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.csproj.GenerateResource.cache
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTar.447F5DBD.Up2Date
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.exe
+C:\Users\MIGUEL\Desktop\AdminTareasAvanzado\obj\Debug\AdminTareasAvanzado.pdb
